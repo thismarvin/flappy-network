@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Flappy Bird meets Machine Learning/v15/.suo
+/.vs/ML/v15/Server/sqlite3
+/.vs/ML/v15/.suo
+/.vs/monoengine/v15/.suo
+/.vs

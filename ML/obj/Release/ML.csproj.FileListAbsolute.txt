@@ -1,0 +1,26 @@
+C:\Users\Marvin\Desktop\Machine Learning Basics\ML\bin\DesktopGL\AnyCPU\Release\MonoGame.Framework.dll.config
+C:\Users\Marvin\Desktop\Machine Learning Basics\ML\bin\DesktopGL\AnyCPU\Release\Content\Assets\Sprites\ASCII 16.xnb
+C:\Users\Marvin\Desktop\Machine Learning Basics\ML\bin\DesktopGL\AnyCPU\Release\Content\Assets\Sprites\ASCII 19.xnb
+C:\Users\Marvin\Desktop\Machine Learning Basics\ML\bin\DesktopGL\AnyCPU\Release\Content\Assets\Sprites\ASCII 8.xnb
+C:\Users\Marvin\Desktop\Machine Learning Basics\ML\bin\DesktopGL\AnyCPU\Release\Content\Assets\Sprites\Player.xnb
+C:\Users\Marvin\Desktop\Machine Learning Basics\ML\bin\DesktopGL\AnyCPU\Release\Content\Assets\Sprites\Sprites.xnb
+C:\Users\Marvin\Desktop\Machine Learning Basics\ML\bin\DesktopGL\AnyCPU\Release\x86\SDL2.dll
+C:\Users\Marvin\Desktop\Machine Learning Basics\ML\bin\DesktopGL\AnyCPU\Release\x64\SDL2.dll
+C:\Users\Marvin\Desktop\Machine Learning Basics\ML\bin\DesktopGL\AnyCPU\Release\x86\soft_oal.dll
+C:\Users\Marvin\Desktop\Machine Learning Basics\ML\bin\DesktopGL\AnyCPU\Release\x64\soft_oal.dll
+C:\Users\Marvin\Desktop\Machine Learning Basics\ML\bin\DesktopGL\AnyCPU\Release\x86\libSDL2-2.0.so.0
+C:\Users\Marvin\Desktop\Machine Learning Basics\ML\bin\DesktopGL\AnyCPU\Release\x64\libSDL2-2.0.so.0
+C:\Users\Marvin\Desktop\Machine Learning Basics\ML\bin\DesktopGL\AnyCPU\Release\x86\libopenal.so.1
+C:\Users\Marvin\Desktop\Machine Learning Basics\ML\bin\DesktopGL\AnyCPU\Release\x64\libopenal.so.1
+C:\Users\Marvin\Desktop\Machine Learning Basics\ML\bin\DesktopGL\AnyCPU\Release\libSDL2-2.0.0.dylib
+C:\Users\Marvin\Desktop\Machine Learning Basics\ML\bin\DesktopGL\AnyCPU\Release\libopenal.1.dylib
+C:\Users\Marvin\Desktop\Machine Learning Basics\ML\bin\DesktopGL\AnyCPU\Release\ML.exe
+C:\Users\Marvin\Desktop\Machine Learning Basics\ML\bin\DesktopGL\AnyCPU\Release\ML.pdb
+C:\Users\Marvin\Desktop\Machine Learning Basics\ML\bin\DesktopGL\AnyCPU\Release\MathNet.Numerics.dll
+C:\Users\Marvin\Desktop\Machine Learning Basics\ML\bin\DesktopGL\AnyCPU\Release\MonoGame.Framework.dll
+C:\Users\Marvin\Desktop\Machine Learning Basics\ML\bin\DesktopGL\AnyCPU\Release\MathNet.Numerics.xml
+C:\Users\Marvin\Desktop\Machine Learning Basics\ML\obj\Release\ML.csprojAssemblyReference.cache
+C:\Users\Marvin\Desktop\Machine Learning Basics\ML\obj\Release\ML.csproj.CoreCompileInputs.cache
+C:\Users\Marvin\Desktop\Machine Learning Basics\ML\obj\Release\ML.csproj.CopyComplete
+C:\Users\Marvin\Desktop\Machine Learning Basics\ML\obj\Release\ML.exe
+C:\Users\Marvin\Desktop\Machine Learning Basics\ML\obj\Release\ML.pdb
